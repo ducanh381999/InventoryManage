@@ -1,0 +1,15 @@
+E:\TestProfectSession4\TestProJectSession4\TestProJectSession4\bin\Debug\TestProJectSession4.exe.config
+E:\TestProfectSession4\TestProJectSession4\TestProJectSession4\bin\Debug\TestProJectSession4.exe
+E:\TestProfectSession4\TestProJectSession4\TestProJectSession4\bin\Debug\TestProJectSession4.pdb
+E:\TestProfectSession4\TestProJectSession4\TestProJectSession4\obj\Debug\TestProJectSession4.csprojAssemblyReference.cache
+E:\TestProfectSession4\TestProJectSession4\TestProJectSession4\obj\Debug\TestProJectSession4.InventoryManagement.resources
+E:\TestProfectSession4\TestProJectSession4\TestProJectSession4\obj\Debug\TestProJectSession4.Properties.Resources.resources
+E:\TestProfectSession4\TestProJectSession4\TestProJectSession4\obj\Debug\TestProJectSession4.csproj.GenerateResource.cache
+E:\TestProfectSession4\TestProJectSession4\TestProJectSession4\obj\Debug\TestProJectSession4.csproj.CoreCompileInputs.cache
+E:\TestProfectSession4\TestProJectSession4\TestProJectSession4\obj\Debug\TestProJectSession4.exe
+E:\TestProfectSession4\TestProJectSession4\TestProJectSession4\obj\Debug\TestProJectSession4.pdb
+E:\TestProfectSession4\TestProJectSession4\TestProJectSession4\obj\Debug\TestProJectSession4.PurchaseOrder.resources
+E:\TestProfectSession4\TestProJectSession4\TestProJectSession4\obj\Debug\TestProJectSession4.WarehouseManagement.resources
+E:\TestProfectSession4\TestProJectSession4\TestProJectSession4\obj\Debug\TestProJectSession4.InventoryReport.resources
+E:\TestProfectSession4\TestProJectSession4\TestProJectSession4\obj\Debug\TestProJectSession4.frmEdit.resources
+E:\TestProfectSession4\TestProJectSession4\TestProJectSession4\obj\Debug\TestProJectSession4.frmView.resources
